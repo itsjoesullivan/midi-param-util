@@ -2,6 +2,10 @@
 
 Useful for converting a MIDI value (0-127) to a reasonable time value or frequency value (i.e. envelopes or filters).
 
+###Installation
+
+`npm install --save midi-param-util`
+
 ###Usage
 
 ####`getTimeValueFromMIDIParam`
